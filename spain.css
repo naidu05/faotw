@@ -1,0 +1,32 @@
+.bgimg{
+    background-image: url(spainbg.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+p.a {
+    text-align: center;
+    font-size: 100px;
+    font-family: 'Engravers MT';
+    font-style: bold;
+    color: white;
+    padding-top: 220px;
+}
+
+.main{
+    background-image: url(imgs/spain\ img\ 2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover; 
+}
+
+.food {
+padding-left: 90px;
+   }
+   
+   .beverage {
+    padding-left: 120px;
+   }
+   
+   .snack {
+    padding-left: 120px;
+   }
